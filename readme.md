@@ -1,5 +1,5 @@
-## End-to-End Business Performance Dashboard (Power BI)
-
+## End-to-End Business Performance Dashboard Power BI & SQL
+ 
 # Project Overview
 
 In this project, I worked on a large business dataset and built an end-to-end Power BI dashboard to analyze performance across multiple business functions including Finance, Sales, Marketing, and Supply Chain.
