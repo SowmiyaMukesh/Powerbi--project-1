@@ -1,4 +1,7 @@
 ## End-to-End Business Performance Dashboard Power BI & SQL
+
+## Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiODNkZjE0MTEtNGNlZC00NjBhLTg2YzYtYzliOTg2Y2E0MTVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
  
 # Project Overview
 
